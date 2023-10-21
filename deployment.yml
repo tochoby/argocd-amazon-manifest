@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: tochoby/amazon:latest
+        image: tochoby/amazon:7
         ports:
         - containerPort: 3000
         
